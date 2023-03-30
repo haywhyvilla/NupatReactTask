@@ -89,6 +89,11 @@ form {
 
 .contact-form input::placeholder {
   color: #ffffff;
+  font-family: "League Spartan";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
 }
 
 textarea {
@@ -97,10 +102,16 @@ textarea {
   padding-top: 5px;
   padding-left: 25px;
   margin-bottom: 50px;
+  outline: none;
 }
 
 textarea::placeholder {
   color: #ffffff;
+  font-family: "League Spartan";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
 }
 
 .submit {
