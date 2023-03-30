@@ -1,0 +1,29 @@
+.section-transporters {
+  height: 100vh;
+  text-align: center;
+}
+.trans-p {
+  height: 17px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #1c1f35;
+  background: rgba(232, 232, 232, 0.5);
+  padding: 0px 10px;
+  border-left: 4px solid #ffb629;
+}
+
+.save h2 {
+  height: 41px;
+  font-family: "Rubik" sans-serif;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 41px;
+  text-align: center;
+  color: #1c1f35;
+}
+
+.images img {
+  margin-right: 50px;
+}

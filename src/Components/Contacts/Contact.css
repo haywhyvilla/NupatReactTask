@@ -1,0 +1,129 @@
+.section-contact {
+  height: 100vh;
+  background: #091242;
+  margin-top: -20px;
+  padding: 150px 350px;
+}
+.flexdiv {
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  gap: 100px;
+  margin-bottom: 80px;
+}
+
+.try2 {
+  font-family: "League Spartan" sans-serif;
+  width: 97px;
+  height: 18px;
+  font-weight: 400;
+  color: #ffffff;
+  background: rgba(232, 232, 232, 0.1);
+  padding: 0px 10px;
+  border-left: 4px solid #ffb629;
+  font-size: 20px;
+  line-height: 18px;
+}
+
+.flexdiv h2 {
+  width: 343px;
+  height: 41px;
+  font-family: "Rubik" sans-serif;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 41px;
+  color: #ffffff;
+  margin-top: -10px;
+}
+
+.leverage {
+  width: 353px;
+  height: 72px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 151.52%;
+  color: #ffffff;
+}
+
+.contact-group {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 20px;
+}
+
+.contact-text {
+  width: 150px;
+  height: 38px;
+  margin-bottom: 50px;
+}
+
+.contact-text p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 135.02%;
+  color: #ffffff;
+}
+
+.displayflex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 26px;
+}
+form {
+  margin-top: 50px;
+}
+
+.contact-form input {
+  width: 365px;
+  height: 60px;
+  border: 1px solid #4e5683;
+  background-color: inherit;
+  padding: 5px 8px 5px 25px;
+  margin-bottom: 26px;
+  color: #ffffff;
+  outline: none;
+}
+
+.contact-form input::placeholder {
+  color: #ffffff;
+}
+
+textarea {
+  border: 1px solid #4e5683;
+  background-color: inherit;
+  padding-top: 5px;
+  padding-left: 25px;
+  margin-bottom: 50px;
+}
+
+textarea::placeholder {
+  color: #ffffff;
+}
+
+.submit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 19px 34px;
+  gap: 10px;
+  width: 194px;
+  height: 60px;
+  background: linear-gradient(
+    94.06deg,
+    #ffb629 -1.21%,
+    #ffda56 58.66%,
+    #ffd7a6 116.84%
+  );
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 135.02%;
+  color: #23212a;
+}
+
+.fleximg {
+  display: flex;
+  margin-left: -50px;
+}

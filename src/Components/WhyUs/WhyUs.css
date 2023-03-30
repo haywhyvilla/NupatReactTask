@@ -3,7 +3,6 @@
 }
 
 .background-why {
-  width: 1919px;
   height: 504px;
   background: url("../../Images/Background.jpg");
 }
@@ -17,11 +16,122 @@
 }
 
 .padding-lr {
+  padding: 60px 65px 0px 65px;
   background: #ffffff;
-  width: 1200px;
+  width: 1000px;
   height: 502px;
   z-index: 1000;
   position: absolute;
   overflow: visible;
-  top: -150px;
+  top: -130px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+}
+
+.why-us {
+}
+
+.whyus {
+  font-family: "Rubik" sans-serif;
+  width: 96px;
+  height: 17px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1c1f35;
+  background: rgba(232, 232, 232, 0.5);
+  padding: 0px 10px;
+  border-left: 4px solid #ffb629;
+}
+
+.why-us h2 {
+  width: 472px;
+  height: 82px;
+  font-family: "Rubik" sans-serif;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 41px;
+  color: #1c1f35;
+}
+
+.paragraph {
+  width: 464px;
+  height: 144px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 151.52%;
+  color: #666c89;
+}
+
+.minus-mar {
+  margin-top: -60px;
+}
+.minus-marg {
+  margin-top: -80px;
+}
+.flex-me {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+  margin-bottom: 20px;
+}
+
+.relative-div {
+  position: relative;
+}
+.aeroplane {
+  /* margin-top: 180px; */
+}
+.girl {
+  position: absolute;
+  bottom: -60px;
+  left: -100px;
+}
+
+.numbers {
+  margin-top: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.numbers div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 0px 106px;
+}
+
+.border-left {
+  border-top: 1px solid #d5d5d5;
+  border-bottom: 1px solid #d5d5d5;
+  border-right: 1px solid #d5d5d5;
+}
+
+.border-right {
+  border-top: 1px solid #d5d5d5;
+  border-bottom: 1px solid #d5d5d5;
+  border-left: 1px solid #d5d5d5;
+}
+
+.numbers h2 {
+  width: 120px;
+  height: 59px;
+  font-family: "Rubik" sans-serif;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 59px;
+  color: #1c1f35;
+}
+
+.numbers p {
+  height: 18px;
+  font-family: "League Spartan" sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  color: #1c1f35;
 }

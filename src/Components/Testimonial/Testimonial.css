@@ -1,0 +1,162 @@
+.section-testimonial {
+  height: 553px;
+}
+
+.testimonial {
+  padding: 100px 300px;
+}
+.safe h3 {
+  width: 404px;
+  height: 41px;
+
+  font-family: "Rubik" sans-serif;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 41px;
+  color: #1c1f35;
+  margin-top: -5px;
+}
+.testimonial-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.direction-testimonial {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.color-y {
+  width: 43.54px;
+  height: 43.54px;
+  background: linear-gradient(
+    94.06deg,
+    #ffb629 -1.21%,
+    #ffda56 58.66%,
+    #ffd7a6 116.84%
+  );
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.color-b {
+  width: 43.54px;
+  height: 43.54px;
+  background: #091242;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  border-radius: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.color-b svg {
+  color: #ffffff;
+}
+
+.div-color-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div-ash {
+  padding: 62px 72px;
+  gap: 10px;
+  width: 450px;
+  height: 325px;
+  background: #f4f4f4;
+}
+
+.div-blue {
+  padding: 62px 72px;
+  gap: 10px;
+  width: 450px;
+  height: 325px;
+  background: #091242;
+}
+
+.display-flexy {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.div-img {
+  border-radius: 100%;
+}
+.div-img img {
+  object-fit: cover;
+  border-radius: 100%;
+}
+
+.div-name h5 {
+  width: 148px;
+  height: 24px;
+  font-family: "Rubik" sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #091242;
+}
+.div-name p {
+  width: 106px;
+  height: 24px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 151.52%;
+  color: #091242;
+  margin-top: -30px;
+}
+
+.div-name2 h5 {
+  width: 118px;
+  height: 24px;
+  font-family: "Rubik" sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.div-name2 p {
+  width: 161px;
+  height: 24px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 151.52%;
+  color: #ffffff;
+  margin-top: -30px;
+}
+.symbol {
+  margin-left: 130px;
+}
+.firstman-p {
+  width: 456px;
+  height: 120px;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 151.52%;
+  color: #666c89;
+}
+.lastman-p {
+  width: 456px;
+  height: 120px;
+  font-family: "Krub" sans-serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 151.52%;
+  color: #ffffff;
+}
+
+.svg-react {
+  margin-top: 35px;
+}

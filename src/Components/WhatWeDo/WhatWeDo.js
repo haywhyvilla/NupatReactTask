@@ -10,7 +10,6 @@ const WhatWeDo = () => {
     <div className="container-fluid section-what-we-do">
       <div className="what-we-do">
         <div className="safe">
-          <span></span>
           <p>What We Do</p>
           <h2>Safe & Reliable Cargo Solutions</h2>
         </div>

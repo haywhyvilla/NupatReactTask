@@ -1,0 +1,117 @@
+.section-blog {
+  padding: 100px 200px;
+  text-align: center;
+}
+
+.heading-div p {
+  height: 17px;
+  font-family: "Rubik";
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1c1f35;
+  background: rgba(232, 232, 232, 0.5);
+  padding: 0px 10px;
+  border-left: 4px solid #ffb629;
+  text-align: center;
+  margin: 0 625px;
+}
+
+.heading-div h2 {
+  height: 41px;
+  font-family: "Rubik" sans-serif;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 41px;
+  text-align: center;
+  color: #1c1f35;
+}
+
+.line {
+  width: 943px;
+  border: 1px solid #d6d6d6;
+  margin: 30px auto;
+}
+
+.blog-flex {
+  display: flex;
+  justify-content: center;
+}
+
+.blog-flexy {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  border-right: 1px solid #d6d6d6;
+  padding-right: 36px;
+}
+.blog-flexy h2 {
+  width: 54px;
+  height: 47px;
+  font-family: "Rubik" sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 47px;
+  color: #1c1f35;
+  margin-top: -6px;
+  margin-left: 5px;
+}
+
+.blog-flexy p {
+  position: absolute;
+  width: 85px;
+  height: 24px;
+  font-family: "Krub" sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 151.52%;
+  text-align: center;
+  margin-top: -40px;
+  margin-left: -5px;
+  color: #666c89;
+}
+.blog-flex-start {
+  margin-left: 40px;
+}
+
+.blog-flex-start h4 {
+  width: 335px;
+  height: 60px;
+  font-family: "Rubik" sans-serif;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+  color: #1c1f35;
+  text-align: start;
+}
+
+.blog-flex-start h3 {
+  width: 348px;
+  height: 60px;
+  font-family: "Rubik" sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  color: #ffbe34;
+  text-align: start;
+}
+
+.blog-flex-start p {
+  width: 335px;
+  height: 72px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 151.52%;
+  color: #666c89;
+  text-align: start;
+}
+
+.blog-flex-start ul {
+  width: 335px;
+  height: 108px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 166.52%;
+  color: #1c1f35;
+  text-align: start;
+}
