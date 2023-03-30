@@ -1,0 +1,38 @@
+.section-header {
+  height: 160px;
+  background-color: #091242;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 244px;
+  padding: 0px 390px;
+}
+
+.header-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 39px;
+}
+.header-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 17px;
+}
+.header-text {
+  width: 150px;
+  height: 38px;
+  margin-bottom: 35px;
+}
+
+.header-text p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 135.02%;
+  color: #ffffff;
+}
+.minus-margin {
+  margin-top: -12px;
+}

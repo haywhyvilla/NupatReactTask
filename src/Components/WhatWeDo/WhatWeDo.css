@@ -1,0 +1,62 @@
+.section-what-we-do {
+  height: 553px;
+  width: 100vw;
+  color: #ffffff;
+  margin-bottom: 150px;
+}
+
+.what-we-do {
+  padding: 100px 360px;
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+
+.do-word {
+  width: 295px;
+  height: 115px;
+  margin-bottom: 70px;
+}
+
+.safe p {
+  font-family: "Rubik" sans-serif;
+  width: 96px;
+  height: 17px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #1c1f35;
+  background: rgba(232, 232, 232, 0.5);
+  padding: 0px 10px;
+  border-left: 4px solid #ffb629;
+}
+
+.safe h2 {
+  font-family: "Rubik" sans-serif;
+  width: 294px;
+  height: 93px;
+  font-weight: 600;
+  font-size: 35px;
+  line-height: 41px;
+  color: #1c1f35;
+}
+
+.what-we-do-grid h3 {
+  width: 267px;
+  height: 30px;
+  font-family: "Rubik" sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #1c1f35;
+}
+
+.what-we-do-grid p {
+  width: 270px;
+  height: 72px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 151.52%;
+  color: #666c89;
+}
