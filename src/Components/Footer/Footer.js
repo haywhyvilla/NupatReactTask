@@ -42,21 +42,21 @@ const Footer = () => {
               </div>
             </div>
           </div>
-          <div>
+          <div className="list-foot">
             <p>About Us </p>
             <p>Our Team</p>
             <p>Our Project</p>
             <p>Pricing</p>
             <p>Contact</p>
           </div>
-          <div>
+          <div className="list-foot">
             <p>Style Guide </p>
             <p>Changelog</p>
             <p>Licenses </p>
             <p>Protected</p>
             <p>Not Found</p>
           </div>
-          <div>
+          <div className="tonight">
             <div className="contact-form">
               <input
                 type="text"
@@ -64,14 +64,27 @@ const Footer = () => {
                 placeholder="Email here*"
               />
             </div>
-            <div>
+            <div className="footer-flexs">
               <button>Send Now</button>
               <div>
-                <BsLinkedin size={22} />
-                <BsTwitter size={22} />
-                <BsFacebook size={22} />
+                <BsLinkedin size={20} color="#ffffff" />
+                <BsTwitter size={20} color="#ffffff" />
+                <BsFacebook size={20} color="#ffffff" />
               </div>
             </div>
+          </div>
+        </div>
+        <div className="footer-line"></div>
+        <div className="foot-flexer">
+          <p className="lastline">
+            Copyright © TransitFlow | Designed by VictorFlow - Powered by
+            Webflow.
+          </p>
+          <div className="last-flex">
+            <p>StyleGuide </p>
+            <p>Licenses</p>
+            <p>Changelog</p>
+            <p>Password</p>
           </div>
         </div>
       </div>
